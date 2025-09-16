@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# remove MacOS system files
+.DS_Store
+# remove Windows system files
+Thumbs.db
+
 # C extensions
 *.so
 
